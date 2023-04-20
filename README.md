@@ -11,3 +11,5 @@ sys:x:3:3:sys:/dev:/usr/sbin/nologin
 sync:x:4:65534:sync:/bin:/bin/sync
 ........................
 ```
+
+https://www.openwall.com/lists/oss-security/2023/03/14/2
